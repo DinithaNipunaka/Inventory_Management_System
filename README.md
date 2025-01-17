@@ -13,6 +13,5 @@ Technologies Used:
 - MySQL  
 - Apache Tomcat  
 
-Steps
 Clone the repository:
 git clone https://github.com/DinithaNipunaka/library-management-system.git
