@@ -1,4 +1,4 @@
-#Inventory Management System (IMS)
+#Inventory Management System (IMS)#
 A web-based application built using JSP, Servlets, and MySQL to streamline product inventory management. The system allows users to add, edit, view, and delete product details, with secure user authentication and a dynamic user interface. Ideal for small to medium businesses looking for an efficient inventory management solution.  
 
 Key Features:
