@@ -15,4 +15,4 @@ Technologies Used:
 - Apache Tomcat  
 
 Clone the repository:
-git clone https://github.com/DinithaNipunaka/library-management-system.git
+https://github.com/DinithaNipunaka/Inventory_Management_System
