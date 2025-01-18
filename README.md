@@ -16,3 +16,7 @@ Technologies Used:
 
 Clone the repository:
 https://github.com/DinithaNipunaka/Inventory_Management_System
+
+License
+This project is licensed under the MIT License.
+
